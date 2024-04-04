@@ -1,0 +1,11 @@
+.biodata {
+    background: linear-gradient(#ffffff 0%,#eeeeeeeb 40%,#ffffff00 100%);
+    padding-bottom: 200px;
+}
+body {
+    background-color:rgb(51, 51, 51);
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
